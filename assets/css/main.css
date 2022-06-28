@@ -1,0 +1,12 @@
+@font-face {
+  font-family: "Lato Light";
+  src: url('../fonts/Lato-Light.ttf') format("truetype");
+}
+@font-face {
+  font-family: "Lato Medium";
+  src: url('../fonts/Lato-Medium.ttf') format("truetype");
+}
+@font-face {
+  font-family: "Axis Extra Bold";
+  src: url('../fonts/AxisExtrabold.otf') format("opentype");
+}
