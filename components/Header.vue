@@ -14,7 +14,7 @@
         <b-navbar-nav class="ml-auto d-flex align-items-center">
           <NuxtLink class="nav-link px-2 mx-2" to="/About">About</NuxtLink>
           <NuxtLink class="nav-link px-2 mx-2" to="/Contact">Contact</NuxtLink>
-          <NuxtLink class="nav-link px-2 mx-2" to="#">Resume</NuxtLink>
+          <NuxtLink class="nav-link px-2 mx-2" to="carreraResume.pdf">Resume</NuxtLink>
         </b-navbar-nav>
       </b-collapse>
     </div>
